@@ -16,5 +16,5 @@ The project description can be found in the [Google Slide](https://docs.google.c
      </div>
 </div>
 
-# Application 
-[Weather-Web-App]((https://moradmed1.github.io/PFE/))
+# Deployed Application:
+[Weather-Web-App](https://moradmed1.github.io/PFE/)
