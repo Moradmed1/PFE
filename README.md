@@ -17,4 +17,4 @@ The project description can be found in the [Google Slide](https://docs.google.c
 </div>
 
 # Application 
-[Weather-Web-App]([https://weather-web-application-zeta.vercel.app/](https://moradmed1.github.io/PFE/))
+[Weather-Web-App]((https://moradmed1.github.io/PFE/))
