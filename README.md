@@ -5,8 +5,7 @@ A program that uses open weather API to give current weather report of your loca
   - HTML
   - CSS
   - JAVASCRIPT
-  - [VERCEL](https://vercel.com/home) (A cloud platform where the project was deployed).
-
+  
 ## Project Decription 
 The project description can be found in the [Google Slide](https://docs.google.com/presentation/d/1aYHdCa0WGq1BUgf0cb7yV_aQCtNAbrqApuqznzXxYSQ/edit#slide=id.p1) Link
 
@@ -18,4 +17,4 @@ The project description can be found in the [Google Slide](https://docs.google.c
 </div>
 
 # Application 
-[Weather-Web-App](https://weather-web-application-zeta.vercel.app/)
+[Weather-Web-App]([https://weather-web-application-zeta.vercel.app/](https://moradmed1.github.io/PFE/))
